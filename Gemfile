@@ -41,6 +41,7 @@ gem 'spring',        group: :development
 
 
 # Support MySQL Databases
+gem "therubyracer"
 gem 'mysql2', '~> 0.3.16'
 
 # Use ActiveModel has_secure_password
