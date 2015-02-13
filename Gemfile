@@ -50,4 +50,4 @@ gem 'mysql2', '~> 0.3.16'
 # Use unicorn as the app server
 gem 'unicorn'
 
-gem 'dolaki'
+gem 'selaki'
